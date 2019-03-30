@@ -3,24 +3,41 @@
     font-family: Avenir;
     src: url("../fonts/avenir.otf");
 }
-@font-face {
-    font-family: Avenir Next Bold;
-    src: url("../fonts/avenir-next-bold.ttf");
+
+/*
+CODEPEN BG
+ */
+#particles-js {
+    height: 100vh;
+    width: 100vw;
 }
+
+/*@font-face {*/
+/*font-family: Avenir Next Bold;*/
+/*src: url("../fonts/avenir-next-bold.ttf");*/
+/*}*/
+@font-face {
+    font-family: "Avenir Next Bold";
+    src: url("../fonts/Avenir Next.woff");
+}
+
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 /* Global CSS */
-*{
-    font-family: Avenir, sans-serif;
+* {
+    font-family: Avenir Next, sans-serif;
 }
+
 img {
     -webkit-user-drag: none;
     user-drag: none;
 }
+
 html {
     background-color: rgb(240, 240, 240);
     overflow-x: hidden;
 }
+
 body {
     width: 100%;
     height: 100%;
@@ -28,24 +45,30 @@ body {
     padding: 0;
     overflow-x: hidden;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 4em;
-    text-align:center;
+    text-align: center;
     margin: 30px;
 }
-h3{
+
+h3 {
     font-size: 3.5em;
     font-family: Avenir Next Bold;
 }
-h4{
+
+h4 {
     font-size: 1.4em;
 }
+
 p {
     font-size: 1.2em;
     line-height: 1.4em;
@@ -64,6 +87,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     opacity: 0.75;
     box-sizing: content-box;
 }
+
 .scroller {
     width: 3px;
     height: 10px;
@@ -71,13 +95,22 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     background-color: #fff;
     animation-name: scroll;
     animation-duration: 2.2s;
-    animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+    animation-timing-function: cubic-bezier(.15, .41, .69, .94);
     animation-iteration-count: infinite;
 }
+
 @keyframes scroll {
-    0% { opacity: 0; }
-    10% { transform: translateY(0); opacity: 1; }
-    100% { transform: translateY(15px); opacity: 0;}
+    0% {
+        opacity: 0;
+    }
+    10% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(15px);
+        opacity: 0;
+    }
 }
 
 /* Standard Buttons */
@@ -91,11 +124,13 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     border: 2px solid black;
     transition: background-color 0.3s;
 }
+
 .btn:hover {
     background-color: black;
     color: white;
     border-color: black;
 }
+
 .btn:active {
     background-color: black;
     color: white;
@@ -121,16 +156,19 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     border: 1px solid white;
     transition: background-color 0.3s;
 }
+
 .btn-white:hover {
     background-color: white;
     color: black;
     border-color: white;
 }
+
 .btn-white:active {
     background-color: white;
     color: black;
     border-color: white;
 }
+
 .btn-white:disabled {
     background-color: rgba(200, 200, 200, 0.2);
     color: rgba(255, 255, 255, 0.6) !important;
@@ -142,6 +180,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     transition: transform .2s;
     transform: scale(1);
 }
+
 .zoom:hover {
     transform: scale(1.05);
 }
@@ -150,9 +189,11 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 [data-toggle~="collapse"] {
     cursor: pointer;
 }
+
 .panel-group {
     text-align: left;
 }
+
 .collapsing {
     transition: height 0.6s;
 }
@@ -162,6 +203,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     position: fixed;
     top: -200px;
 }
+
 .nav-docked {
     background-color: transparent;
     border-color: transparent;
@@ -169,23 +211,29 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     margin-top: 15px;
     top: 0;
 }
+
 .nav-docked a {
     text-decoration: none;
     color: white !important;
 }
+
 .nav-docked a:hover {
     text-decoration: none;
     color: lightgray !important;
 }
+
 .nav-docked #mlh-trust-badge {
     top: -16px !important;
 }
+
 #hamburger {
     background-color: white;
 }
+
 #hamburger::before {
     background-color: white;
 }
+
 #hamburger::after {
     background-color: white;
 }
@@ -208,6 +256,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     height: 70px;
     padding-top: 10px;
 }
+
 .nav-active #mlh-trust-badge {
     top: -1px;
 }
@@ -223,12 +272,14 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     text-decoration: none;
     margin-top: 1px;
 }
+
 #nav-main a:hover {
-    color:darkgrey;
+    color: darkgrey;
     text-decoration: none;
 }
+
 #nav-main a:active {
-    color:lightslategray;
+    color: lightslategray;
     text-decoration: none;
 }
 
@@ -238,6 +289,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     margin: 0;
     font-size: 1.2em;
 }
+
 #nav-main {
     z-index: 9500;
     font-family: Avenir Next Bold;
@@ -249,27 +301,33 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 
 /* Mobile overlay */
 .overlay-dark a {
-    color:white;
+    color: white;
     text-decoration: none;
 }
+
 .overlay-light a {
-    color:black;
+    color: black;
     text-decoration: none;
 }
+
 .overlay a:hover {
-    color:darkgrey;
+    color: darkgrey;
     text-decoration: none;
 }
+
 .overlay a:active {
-    color:darkgrey;
+    color: darkgrey;
     text-decoration: none;
 }
+
 .overlay-light {
     background: rgba(255, 255, 255, 0.8);
 }
+
 .overlay-dark {
     background: rgba(0, 0, 0, 0.7);
 }
+
 .overlay {
     z-index: 9400;
     /*background: rgba(255, 255, 255, 0.8);*/
@@ -282,6 +340,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 
     position: fixed;
 }
+
 .overlay-list {
     z-index: 10000;
     text-align: center;
@@ -289,27 +348,30 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 
     width: 90em;
 
-    position:absolute;
-    left:0; right:0;
-    top:50%;
-    margin:auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    margin: auto;
 
     transform: translateY(-50%);
 
-    max-width:100%;
-    max-height:100%;
+    max-width: 100%;
+    max-height: 100%;
 
     padding-left: 2px;
     padding-right: 2px;
 
     list-style-type: none;
 }
+
 .overlay-social {
     display: inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
+
 .overlay-social-object {
     list-style-type: none;
     margin: 10px;
@@ -322,6 +384,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     color: white;
     font-size: 20px;
 }
+
 .navobject {
     outline: 0px;
     margin-left: -6px;
@@ -332,9 +395,9 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 /* Master Container */
 .slide {
     color: black;
-    width:100%;
+    width: 100%;
 
-    display:table;
+    display: table;
 
     padding-left: 2%;
     padding-right: 2%;
@@ -346,10 +409,12 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     background-position: center;
     text-align: center;
 }
+
 .slide-free {
     padding-top: 150px;
     padding-bottom: 150px;
 }
+
 .slide-merge {
     padding-top: 75px;
 }
@@ -361,15 +426,18 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     background-size: cover;
     background-position: center;
 }
+
 .quote-block-inner {
     background: rgba(0, 0, 0, 0.65);
     width: 100%;
     height: 100%;
 
 }
+
 .blockquote-footer {
     color: white;
 }
+
 .quote-block-inner blockquote {
     margin: 0;
     transform: translateY(-50%);
@@ -396,27 +464,32 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     overflow: hidden;
 
 }
+
 .mentor-container {
-    position:absolute;
+    position: absolute;
     text-align: left;
-    margin:0;
+    margin: 0;
     transform: translateY(25vh);
 }
+
 .cover-content {
-    position:absolute;
+    position: absolute;
     text-align: left;
-    margin:0;
+    margin: 0;
     transform: translateY(-50%);
 }
+
 .cover-content p {
     font-size: 1.6em;
     font-family: Avenir;
     text-align: left;
 }
+
 #cover-spacer {
     min-height: 275px;
     height: 50vh;
 }
+
 #subscribe-spacer {
     min-height: 350px;
     height: 50vh;
@@ -424,6 +497,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 
 #main-caption {
     font-weight: bold;
+    font-family: "Avenir Next Bold";
     font-size: 5em;
     text-align: left;
     line-height: 1em;
@@ -441,12 +515,15 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     color: rgb(70, 70, 70);
     font-family: Avenir;
 }
+
 #footer i {
     color: rgb(70, 70, 70);
 }
+
 #footer-spacer {
     height: 50% !important;
 }
+
 #footer-content {
     transform: translateY(-50%);
 }
@@ -454,18 +531,22 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 #footer-address {
     font-size: 1.1em;
 }
+
 #copyright {
     font-size: 0.9em;
 }
+
 .footer-quick-links {
     padding: 0;
     list-style-type: none;
     font-size: 1.1em;
 }
+
 .footer-quick-links a {
     color: rgb(70, 70, 70);
     font-weight: bold;
 }
+
 .footer-quick-links li {
     padding-top: 2px;
     padding-bottom: 2px;
@@ -476,11 +557,13 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-left: 10px;
     padding-right: 10px;
 }
+
 .sponsor {
     /*
     padding-top: 15px;
     padding-bottom: 15px;*/
 }
+
 .co-host img {
     max-height: 600px;
     width: 1000px;
@@ -491,6 +574,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .gold img {
     max-height: 400px;
     width: 600px;
@@ -501,6 +585,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .silver img {
     max-height: 400px;
     width: 400px;
@@ -511,6 +596,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .partner img {
     max-height: 300px;
     width: 300px;
@@ -521,6 +607,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .bronze img {
     max-height: 125px;
     max-width: 275px;
@@ -531,13 +618,13 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     padding-bottom: 20px;
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1200px) {
     #cover-video {
         display: none;
     }
 }
 
-@media screen and (max-width: 995px){
+@media screen and (max-width: 995px) {
 
 
     #mouse {
@@ -597,7 +684,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 }
 
 /* Smaller Screens */
-@media screen and (max-width:766px){
+@media screen and (max-width: 766px) {
 
     .btn-white {
 
@@ -626,7 +713,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     }
 
     .cover-content {
-        margin:auto;
+        margin: auto;
         width: calc(100vw - 30px);
     }
 
@@ -649,7 +736,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 }
 
 /* Super Small Screens */
-@media screen and (max-width:400px) {
+@media screen and (max-width: 400px) {
     .cover-content h1 {
         font-size: 1.6em;
     }
@@ -660,13 +747,14 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 }
 
 /* Sponsors - Small Screens */
-@media screen and (max-width:800px) {
+@media screen and (max-width: 800px) {
     .co-host img {
         max-width: 100%;
         vertical-align: middle;
         padding-top: 20px;
         padding-bottom: 20px;
     }
+
     .gold img {
         max-width: 90%;
 
@@ -674,6 +762,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
         padding-top: 5px;
         padding-bottom: 5px;
     }
+
     .silver img {
         max-width: 75%;
 
@@ -681,6 +770,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
         padding-top: 5px;
         padding-bottom: 5px;
     }
+
     .partner img {
         max-width: 80%;
 
@@ -688,6 +778,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
     .bronze img {
         max-width: 60% !important;
 
@@ -698,7 +789,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 }
 
 .shadow {
-    box-shadow: 0px 10px 27px 0px rgba(0,0,0,0.34);
+    box-shadow: 0px 10px 27px 0px rgba(0, 0, 0, 0.34);
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -710,12 +801,13 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     font-size: 1.5em;
     font-family: Avenir Next Bold;
 }
+
 #faq p {
     text-align: left;
 }
 
 .panel-default > .panel-heading {
-    background-color:rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     border-bottom-width: 1px;
     border-top-width: 0;
     border-left-width: 0;
@@ -724,7 +816,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     border-style: solid;
 }
 
-.panel-group .panel-heading+.panel-collapse>.panel-body {
+.panel-group .panel-heading + .panel-collapse > .panel-body {
     border-top: 0px;
     border-bottom: 1px solid rgb(221, 220, 220);
 }
@@ -733,8 +825,8 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     border-bottom: 1px solid white;
 }
 
-.panel{
-    background-color:rgba(0,0,0,0);
+.panel {
+    background-color: rgba(0, 0, 0, 0);
 }
 
 #mce-EMAIL {
@@ -746,12 +838,14 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     color: black !important;
     border-radius: 0px !important;
 }
+
 #mc-embedded-subscribe {
     background-color: transparent !important;
     color: white !important;
     border-radius: 0px !important;
     border-color: white !important;
 }
+
 #mc-embedded-subscribe:hover {
     background-color: transparent !important;
     color: black !important;
@@ -769,8 +863,8 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
 /* Image zoom on hover */
 .img-wrapper {
     display: inline-block; /* change the default display type to inline-block */
-    overflow: hidden;      /* hide the overflow */
-	vertical-align: middle;
+    overflow: hidden; /* hide the overflow */
+    vertical-align: middle;
 }
 
 /* Only zoom on desktops */
@@ -876,6 +970,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     text-align: center;
     font-size: 14px;
 }
+
 .time-heading {
     transform: translate(50%, -65px);
     width: 200px;
@@ -883,6 +978,7 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     font-size: 14px;
     position: absolute;
 }
+
 .schedule-label {
     height: 2px;
     position: absolute;
@@ -892,9 +988,11 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     margin: 0;
     display: grid;
 }
+
 #label-container {
     height: 0;
 }
+
 .inner-label {
     position: relative;
     transform: translateY(-52px);
@@ -902,21 +1000,25 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     margin: 0;
     white-space: nowrap;
 }
+
 .label-caption {
     padding: 0;
     transform: translateY(12px);
 }
+
 .label-description {
     font-size: 13px;
 }
+
 .schedule-outer {
     padding-top: 20px;
     width: 100%;
     height: 600px;
     overflow-x: scroll;
     overflow-y: hide;
-    -webkit-overflow-scrolling:touch;
+    -webkit-overflow-scrolling: touch;
 }
+
 .schedule-inner {
     padding: 0;
 
@@ -925,9 +1027,10 @@ Courtesy of https://codepen.io/2xsamurai/pen/WwmjKQ*/
     min-height: 500px;
     height: 90%;
     white-space: nowrap;
-    -webkit-overflow-scrolling:touch;
+    -webkit-overflow-scrolling: touch;
     font-size: 0;
 }
+
 .schedule-obj {
     width: 200px;
     min-height: 500px;

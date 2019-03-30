@@ -7,15 +7,15 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
-    <meta content="MasseyHacks V" property="og:title"/>
-    <meta content="Windsor-Essex's fifth high-school hackathon–for students, by students." property="og:description"/>
-    <meta content="images/mhcover.png" property="og:image"/>
-    <meta content="MasseyHacks, V, MasseyHacks V, Windsor, Hacks, Massey, VMSS, Vincent, MLH, Learnathon, Hackathon, Computer, Science, Computer Science"
-          name="keywords">
-    <meta content="MasseyHacks V" property="twitter:title"/>
-    <meta content="Windsor-Essex's fifth high-school hackathon-for students, by students."
-          property="twitter:description"/>
-    <meta content="images/mhcover.png" property="twitter:image"/>
+    <meta content="Massey Debate Invitationals" property="og:title"/>
+    <!--<meta content="Windsor-Essex's fifth high-school hackathon–for students, by students." property="og:description"/>-->
+    <!--<meta content="images/mhcover.png" property="og:image"/>-->
+    <!--<meta content="MasseyHacks, V, MasseyHacks V, Windsor, Hacks, Massey, VMSS, Vincent, MLH, Learnathon, Hackathon, Computer, Science, Computer Science"-->
+    <!--name="keywords">-->
+    <!--<meta content="MasseyHacks V" property="twitter:title"/>-->
+    <!--<meta content="Windsor-Essex's fifth high-school hackathon-for students, by students."-->
+    <!--property="twitter:description"/>-->
+    <!--<meta content="images/mhcover.png" property="twitter:image"/>-->
 
     <title>Massey Debate</title>
 
@@ -57,18 +57,24 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
     <script crossorigin="anonymous" defer
             integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
             src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
 </head>
 
 <body>
 
-    <img height="0" src="images/slide/23.jpg" style="display: none; position: absolute; top: -20px" width="0">
+    <!--<img height="0" src="images/slide/23.jpg" style="display: none; position: absolute; top: -20px" width="0">-->
+
+    <!--<div id="content" style="height: 100vh;">-->
+    <!--<div id="scene"></div>-->
+    <!--</div>-->
+
 
     <div class="wrapper" id="cover">
 
         <!-- Cover -->
-        <section class="slide changeable" id="header"
-                 style="background-color: black; background-image: url(images/slide/23.jpg);">
-
+        <section class="slide changeable content" id="header" style="background: #142a60">
+            <div id="particles-js" style="position: absolute;"></div>
+            <script src="js/particles.min.js"></script>
             <!--
             <video id="background-video" autoplay muted loop oncontextmenu="return false;" style="width: auto; height: 100vh; right: 0; bottom: 0; position: absolute;">
                 <source src="images/wavy.mp4" type="video/mp4">
@@ -83,7 +89,7 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                            style="padding-top: 0; padding-bottom: 0; padding-right: 0; z-index: 9500">
                             <div id="nav-logo-group" style="height: 100%">
                                 <img height="100%" id="nav-logo" src="images/logo/logo-white.svg" width="auto">
-                                <span id="nav-logo-text" style="padding-left: 5px;">Massey Debate</span>
+                                <span id="nav-logo-text" style="padding-left: 5px; font-family: 'Avenir Next Bold'">Massey Debate</span>
                             </div>
                         </a>
 
@@ -98,24 +104,15 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right" id="navright">
                             <li><a class="js-navbar-link scrollLink navobject" href="#about">About</a></li>
-                            <li><a class="js-navbar-link scrollLink navobject" href="#faq">Questions</a></li>
+                            <!--<li><a class="js-navbar-link scrollLink navobject" href="#faq">Questions</a></li>-->
                             <!--<li><a href="#schedule" class="js-navbar-link scrollLink navobject">Schedule</a></li>-->
                             <li><a class="js-navbar-link scrollLink navobject" href="#schedule">Schedule</a></li>
-                            <li><a class="js-navbar-link scrollLink navobject" href="#sponsors">Sponsors</a></li>
+                            <!--<li><a class="js-navbar-link scrollLink navobject" href="#sponsors">Sponsors</a></li>-->
 
-                            <li><a class="navobject" href="https://register.masseyhacks.ca/" target="_blank">Login</a>
+                            <li><a class="navobject" href="https://forms.gle/enZQTK2gXRGJc5xf9/"
+                                   target="_blank">Register</a>
                             </li>
-                            <li><a class="scrollLink navobject" href="live" target="_blank">Live</a></li>
-
-                            <li>
-                                <a href="https://mlh.io/seasons/na-2019/events?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2019-season&utm_content=white"
-                                   id="mlh-trust-badge"
-                                   style="margin-left: 20px; padding: 0; position: relative; top: -11px; width: 100px;"
-                                   target="_blank"><img alt="Major League Hacking 2019 Hackathon Season" id="bannerImg"
-                                                        src="https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg"
-                                                        style="width:100%"></a></li>
-
-
+                            <!--<li><a class="scrollLink navobject" href="live" target="_blank">Live</a></li>-->
                         </ul>
                     </div>
                 </div>
@@ -127,11 +124,11 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                     <ul class="overlay-list">
                         <li><a class="js-navbar-link scrollLink overlayLink" href="#header">Home</a></li>
                         <li><a class="js-navbar-link scrollLink overlayLink" href="#about">About</a></li>
-                        <li><a class="js-navbar-link scrollLink overlayLink" href="#faq">Questions</a></li>
+                        <!--<li><a class="js-navbar-link scrollLink overlayLink" href="#faq">Questions</a></li>-->
                         <li><a class="js-navbar-link scrollLink overlayLink" href="#schedule">Schedule</a></li>
-                        <li><a class="js-navbar-link scrollLink overlayLink" href="#sponsors">Sponsors</a></li>
-                        <li><a href="https://register.masseyhacks.ca/">Login</a></li>
-                        <li><a class="scrollLink overlayLink" href="live/index.html">Live</a></li>
+                        <!--<li><a class="js-navbar-link scrollLink overlayLink" href="#sponsors">Sponsors</a></li>-->
+                        <li><a href="https://forms.gle/enZQTK2gXRGJc5xf9/">Register</a></li>
+                        <!--<li><a class="scrollLink overlayLink" href="live/index.html">Live</a></li>-->
 
                     </ul>
                 </div>
@@ -194,10 +191,10 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                         <br>
                         <p style="text-align: left;">
                             The Massey Debate Club from Vincent Massey Secondary School would like to invite you and
-                            your teams to our debate competition called Massey Invitational on **DATE** from 8:00
-                            am-4:30 pm. Registration will begin at 7:15 am. The competition will be bracket tournament
-                            consisting of 4 spontaneous debates. The judges will be experienced debaters who will give
-                            all competitors insightful feedback. The winners and runner ups will receive an award, as
+                            your teams to our debate competition called Massey Invitational on May 18th from 8:00
+                            am to 4:30 pm. Registration will begin at 7:15 am. The competition will be bracket
+                            tournament
+                            consisting of 4 spontaneous debates. The winners and runner ups will receive an award, as
                             well as the Best Varsity Speaker and Best Novice Speaker. This is a fantastic opportunity
                             for debaters to sharpen their skills against other debaters in the Windsor-Essex region. The
                             cost of Massey Invitational is $10.00 per person and will cover the cost of breakfast,
@@ -205,7 +202,7 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                     </div>
                     <div class="col-md-7">
                         <div class="img-wrapper shadow" id="about-image">
-                            <img class="img-fluid scaleonhover" src="images/slide/7.jpg" style="width: 100%">
+                            <img class="img-fluid scaleonhover" src="images/slide/23.jpg" style="width: 100%">
                         </div>
                     </div>
                 </div>
@@ -498,7 +495,7 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
         <!--</div>-->
         <!--</section>-->
 
-        <section class="quote-block" style="background-image: url('images/slide/24.jpg');">
+        <section class="quote-block" style="background-image: url('images/slide/random.jpg');">
             <div class="quote-block-inner">
                 <div style="height: 50%; width: 100%"></div>
                 <blockquote class="blockquote text-center">
@@ -698,44 +695,9 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
             <div class="container" id="footer-content">
                 <div class="row">
 
-                    <div class="col-md-1"></div>
-
-                    <div class="col-md-5">
-                        <ul class="footer-quick-links">
-                            <li><a href="https://mh4.masseyhacks.ca" target="_blank">MasseyHacks IV</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#faq">FAQ</a></li>
-                            <li><a href="#sponsors">Sponsorship</a></li>
-                            <li><a href="http://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank">MLH Code of
-                                Conduct</a></li>
-                        </ul>
-
-                        <ul style="padding: 0; list-style-type: none">
-                            <li class="overlay-social-object" style="margin-left: 0"><a
-                                    href="mailto:hello@masseyhacks.ca" target="_blank"><i
-                                    aria-hidden="true" class="fa fa-envelope navsocial" style="font-size: 20px"></i></a>
-                            </li>
-                            <li class="overlay-social-object"><a href="https://www.facebook.com/masseyhacks/"
-                                                                 target="_blank"><i aria-hidden="true"
-                                                                                    class="fab fa-facebook-f navsocial"
-                                                                                    style="font-size: 20px"></i></a>
-                            </li>
-                            <li class="overlay-social-object"><a href="https://www.twitter.com/MasseyHacks"
-                                                                 target="_blank"><i aria-hidden="true"
-                                                                                    class="fab fa-twitter navsocial"
-                                                                                    style="font-size: 20px"></i></a>
-                            </li>
-                            <li class="overlay-social-object"><a href="https://www.instagram.com/masseyhacks/"
-                                                                 target="_blank"><i aria-hidden="true"
-                                                                                    class="fab fa-instagram navsocial"
-                                                                                    style="font-size: 20px"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-
                     <div class="col-md-5">
                         <div id="footer-about">
-                            <h2 style="margin-top: 0">MasseyHacks</h2>
+                            <h2 style="margin-top: 0">Massey Debate</h2>
 
                             <p id="footer-address" style="color: rgb(50, 50, 50)">
                                 Vincent Massey Secondary School<br>
@@ -744,14 +706,24 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                             </p>
                         </div>
 
-                        <p id="copyright">
-                            &lt/&gt by the MasseyHacks Platform Team with <i aria-hidden="true"
-                                                                             class="fa fa-coffee"></i><br>
-                            Copyright &copy; <span id="year">2018</span>
-                        </p>
+                        <ul style="padding: 0; list-style-type: none">
+                            <li class="overlay-social-object" style="margin-left: 0"><a
+                                    href="mailto:team@masseydebate.com" target="_blank"><i
+                                    aria-hidden="true" class="fa fa-envelope navsocial" style="font-size: 20px"></i></a>
+                            </li>
+                            <li class="overlay-social-object"><a href="https://www.facebook.com/groups/916657408543141/"
+                                                                 target="_blank"><i aria-hidden="true"
+                                                                                    class="fab fa-facebook-f navsocial"
+                                                                                    style="font-size: 20px"></i></a>
+                            </li>
+                            </li>
+                            <li class="overlay-social-object"><a href="https://www.instagram.com/vmssdebate/"
+                                                                 target="_blank"><i aria-hidden="true"
+                                                                                    class="fab fa-instagram navsocial"
+                                                                                    style="font-size: 20px"></i></a>
+                            </li>
+                        </ul>
                     </div>
-
-                    <div class="col-sm-1"></div>
                 </div>
             </div>
         </section>
@@ -772,6 +744,119 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
 
     gtag('config', 'UA-112529950-1')
 
+</script>
+
+<script type="text/javascript">
+    particlesJS("particles-js", {
+        "particles": {
+            "number": {
+                "value": 80,
+                "density": {
+                    "enable": true,
+                    "value_area": 800
+                }
+            },
+            "color": {
+                "value": "#ffffff"
+            },
+            "shape": {
+                "type": "circle",
+                "stroke": {
+                    "width": 0,
+                    "color": "#000000"
+                },
+                "polygon": {
+                    "nb_sides": 5
+                },
+                "image": {
+                    "src": "img/github.svg",
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "opacity": {
+                "value": 0.5,
+                "random": false,
+                "anim": {
+                    "enable": false,
+                    "speed": 1,
+                    "opacity_min": 0.1,
+                    "sync": false
+                }
+            },
+            "size": {
+                "value": 3,
+                "random": true,
+                "anim": {
+                    "enable": false,
+                    "speed": 40,
+                    "size_min": 0.1,
+                    "sync": false
+                }
+            },
+            "line_linked": {
+                "enable": false,
+                "distance": 150,
+                "color": "#ffffff",
+                "opacity": 0.4,
+                "width": 1
+            },
+            "move": {
+                "enable": true,
+                "speed": 6,
+                "direction": "none",
+                "random": false,
+                "straight": false,
+                "out_mode": "out",
+                "bounce": false,
+                "attract": {
+                    "enable": false,
+                    "rotateX": 600,
+                    "rotateY": 1200
+                }
+            }
+        },
+        "interactivity": {
+            "detect_on": "canvas",
+            "events": {
+                "onhover": {
+                    "enable": true,
+                    "mode": "repulse"
+                },
+                "onclick": {
+                    "enable": true,
+                    "mode": "push"
+                },
+                "resize": true
+            },
+            "modes": {
+                "grab": {
+                    "distance": 400,
+                    "line_linked": {
+                        "opacity": 1
+                    }
+                },
+                "bubble": {
+                    "distance": 400,
+                    "size": 40,
+                    "duration": 2,
+                    "opacity": 8,
+                    "speed": 3
+                },
+                "repulse": {
+                    "distance": 200,
+                    "duration": 0.4
+                },
+                "push": {
+                    "particles_nb": 4
+                },
+                "remove": {
+                    "particles_nb": 2
+                }
+            }
+        },
+        "retina_detect": true
+    })
 </script>
 
 
