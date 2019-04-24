@@ -4,7 +4,6 @@ networks:
     external: true
 services:
   masseydebate:
-    build: ./
     labels:
       - "traefik.docker.network: traefik"
       - "traefik.frontend.rule=Host:masseydebate.com"
