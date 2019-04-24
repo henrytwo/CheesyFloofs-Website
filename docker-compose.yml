@@ -12,4 +12,4 @@ services:
       - traefik
     ports:
       - "9001:80"
-    image: "${CI_REGISTRY}/${CI_PROJECT_PATH}:latest"
+    image: "docker.masseyhacks.ca/jamesxu/masseydebate-website:latest"
