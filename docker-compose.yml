@@ -10,6 +10,4 @@ services:
       - "traefik.frontend.rule=Host:masseydebate.com"
     networks:
       - traefik
-    ports:
-      - "9001:80"
     image: "docker.masseyhacks.ca/jamesxu/masseydebate-website:latest"
