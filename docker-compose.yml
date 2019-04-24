@@ -7,6 +7,7 @@ services:
     labels:
       - "traefik.docker.network: traefik"
       - "traefik.frontend.rule=Host:masseydebate.com"
+      - "traefik.enable=true"
     networks:
       - traefik
     image: "${CI_REGISTRY}/${CI_PROJECT_PATH}:latest"
