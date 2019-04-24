@@ -10,4 +10,4 @@ services:
       - "traefik.frontend.rule=Host:masseydebate.com"
     networks:
       - traefik
-    image: "docker.masseyhacks.ca/jamesxu/masseydebate-website:latest"
+    image: "${CI_REGISTRY}/${CI_PROJECT_PATH}:latest"
