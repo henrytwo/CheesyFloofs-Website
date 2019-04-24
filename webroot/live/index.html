@@ -33,10 +33,10 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
     <link href="css/hamburgers.css" rel = "stylesheet" type = "text/css" />
     <link href="https://use.fontawesome.com/releases/v5.0.2/css/all.css" rel="stylesheet">
 
-    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0a62af">
+    <link href='/webroot/favicon.ico' rel='shortcut icon' type='image/x-icon'/>
+    <link href="/webroot/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="/webroot/site.webmanifest" rel="manifest">
+    <link color="#0a62af" href="/webroot/safari-pinned-tab.svg-tab.svg" rel="mask-icon">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
 
@@ -46,7 +46,7 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
 
     <script defer src = "js/index-r5.js" type = "text/javascript"></script>
 	<script defer src = "js/mail-new.js" type = "text/javascript"></script>
-	
+
 	<link rel="stylesheet" href="css/toastr.css">
 
     <script defer src ="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js" crossorigin="anonymous"></script>
@@ -142,8 +142,8 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
 
         </div>
     </section>
-	
-	 <section class="quote-block">
+
+    <section class="quote-block">
         <div class="quote-block-inner">
             <div style="height: 50%; width: 100%"></div>
             <blockquote class="blockquote text-center">
@@ -151,8 +151,8 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
             </blockquote>
         </div>
     </section>
-	
-	<!-- Activities -->
+
+    <!-- Activities -->
     <section id="activities" class="slide slide-free container-fluid changeable" style="padding-bottom: 0">
         <div class="row">
             <div class="container">
@@ -169,23 +169,23 @@ Developed by: Henry Tu, Ryan Zhang, David Hui, James Xu
                         <h3 style="text-align: left">Upcoming</h3>
 						<span id="scheduleupcoming">
 							<h2>There are no activities</h2>
-							
+
 						</span>
                     </div>
 				</div>
             </div>
         </div>
     </section>
-	
-	<section id="map" class="slide container-fluid changeable">
+
+    <section id="map" class="slide container-fluid changeable">
         <div class="container">
             <h3>Map</h3>
 			<h4>Click <a href="images/map.png">here</a> to open the image in another tab</h4>
 			<img src="images/map.png" style="margin-top:20px; max-width: 80vw; max-height: 70vh;">
         </div>
     </section>
-	
-	    <!-- Schedule -->
+
+    <!-- Schedule -->
     <section id="schedule" class="slide slide-free container-fluid changeable" style="padding-left: 0; padding-bottom: 0;">
 
 
@@ -371,7 +371,7 @@ var x = setInterval(function() {
   document.getElementById("date-time").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s " + "until hacking begins!";
 
-  // If the count down is finished, write some text 
+    // If the count down is finished, write some text
   if (distance < 0) {
     // Get todays date and time
 	  now = new Date().getTime();
