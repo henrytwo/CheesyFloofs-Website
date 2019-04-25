@@ -15,3 +15,4 @@ services:
       options:
         tag: website.{{.ImageName}}/{{.ID}}
     image: "${CI_REGISTRY}/${CI_PROJECT_PATH}:latest"
+    restart: always
