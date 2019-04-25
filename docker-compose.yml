@@ -10,7 +10,7 @@ services:
       - "traefik.enable=true"
     networks:
       - traefik
-    restart: always
+    #restart: always
     logging:
       driver: "fluentd"
       options:
