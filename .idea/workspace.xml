@@ -1,474 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21dd857c-b3af-44dd-8c8c-f5b3ef68f6bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5xx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apply/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hamburgers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mailchimp-new.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main-r7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sponsorship.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/waiver.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Avenir Next.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Berthold Akzidenz Grotesk BE Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Berthold Akzidenz Grotesk Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Futura Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Futura Light Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agenda/AgendaBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agenda/AgendaLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agenda/AgendaMedium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agenda/Agenda_2375.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir-next-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/avenir2.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/humanswithlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/debate logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/floofs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo/logowide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide/random.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sparc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/bobpedler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/brave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/canada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/canadaservicecorp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/canadaservicecorpfr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/devdegree.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/discord.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/edsby.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/epicentre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/exodus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/gceng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/gcfr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/gecdsb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/glier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/hackthenorth.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/hamoudis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/htv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/ieee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/impac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/mlh-logo-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/nejla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/optimistriverside.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/shopify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/stickermule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/subway.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/swmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/takingitglobal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/timhorton.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/uwindsor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/uwindsorscience.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/weclo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/wetech.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsors/wfsltd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/codepen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index-r3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/mail-new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/sweetalert2.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/underscore-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/judging/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/licence.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/5xx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/css/hamburgers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/css/mailchimp-new.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/css/main-r7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/css/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/css/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/email_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Berthold Akzidenz Grotesk BE Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Berthold Akzidenz Grotesk Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Futura Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Futura Light Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/Raleway-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/agenda/AgendaBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/agenda/AgendaLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/agenda/AgendaMedium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/agenda/Agenda_2375.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/avenir-next-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/avenir.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/fonts/avenir2.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/logo/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/logo/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/logo/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/images/slide/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/firebase-messaging-sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/firepush.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/index-r5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/mail-new.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/sweetalert2.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/js/underscore-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/licence.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/registrationError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/schedule.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/MailChimp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/config.dist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/emailSub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registrationError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schedule.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slack/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/waiver/index.html" afterDir="false" />
+    <list default="true" id="21dd857c-b3af-44dd-8c8c-f5b3ef68f6bd" name="Default Changelist" comment="sparc bois">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/5xx.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/apply/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/css/hamburgers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/css/mailchimp-new.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/css/main-r7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/css/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/email_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/files/sponsorship.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/files/waiver.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Avenir Next.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Berthold Akzidenz Grotesk BE Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Berthold Akzidenz Grotesk Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Futura Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Futura Light Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/Raleway-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/SIL Open Font License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/agenda/AgendaBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/agenda/AgendaLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/agenda/AgendaMedium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/agenda/Agenda_2375.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/avenir-next-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/avenir.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/fonts/avenir2.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/logo/debate logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/logo/logo-black.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/logo/logo-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/logo/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/slide/random.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/bobpedler.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/brave.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/canada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/canadaservicecorp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/canadaservicecorpfr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/devdegree.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/discord.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/edsby.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/epicentre.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/exodus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/gceng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/gcfr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/gecdsb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/glier.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/hackthenorth.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/hamoudis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/htv.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/ieee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/impac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/mlh-logo-color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/nejla.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/optimistriverside.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/shopify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/stickermule.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/subway.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/swmc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/takingitglobal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/timhorton.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/uwindsor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/uwindsorscience.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/weclo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/wetech.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/images/sponsors/wfsltd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/codepen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/index-r3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/mail-new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/particles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/sweetalert2.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/js/underscore-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/judging/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/licence.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/5xx.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/css/hamburgers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/css/mailchimp-new.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/css/main-r7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/css/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/css/toastr.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/email_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Berthold Akzidenz Grotesk BE Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Berthold Akzidenz Grotesk Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Futura Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Futura Light Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/Raleway-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/SIL Open Font License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/agenda/AgendaBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/agenda/AgendaLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/agenda/AgendaMedium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/agenda/Agenda_2375.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/avenir-next-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/avenir.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/fonts/avenir2.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/logo/logo-black.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/logo/logo-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/logo/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/images/slide/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/firebase-messaging-sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/firepush.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/index-r5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/mail-new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/sweetalert2.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/js/underscore-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/licence.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/registrationError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/schedule.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/live/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/php/MailChimp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/php/config.dist.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/php/emailSub.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/registrationError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/schedule.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/slack/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webroot/waiver/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -490,25 +25,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="676" column="113" selection-start-line="676" selection-start-column="113" selection-end-line="676" selection-end-column="113" />
+            <state relative-caret-position="180">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main-r7.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="261" column="1" lean-forward="true" selection-start-line="261" selection-start-column="1" selection-end-line="261" selection-end-column="1" />
+            <state relative-caret-position="489">
+              <caret line="299" column="1" selection-start-line="299" selection-start-column="1" selection-end-line="299" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -516,11 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index-r3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="252">
               <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -587,6 +125,7 @@
       <find>sponsors</find>
       <find>Massey Deb</find>
       <find>navbar</find>
+      <find>Sponsors</find>
     </findStrings>
     <replaceStrings>
       <replace>https://forms.gle/enZQTK2gXRGJc5xf9</replace>
@@ -605,8 +144,8 @@
         <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/webroot/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main-r7.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -616,10 +155,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1457" />
+    <option name="x" value="1382" />
     <option name="y" value="214" />
-    <option name="width" value="1270" />
-    <option name="height" value="800" />
+    <option name="width" value="1260" />
+    <option name="height" value="802" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -733,6 +272,7 @@
       <workItem from="1556152166188" duration="136000" />
       <workItem from="1556152413955" duration="8000" />
       <workItem from="1558760421390" duration="2673000" />
+      <workItem from="1558801230113" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="cool stuff">
       <created>1553736256024</created>
@@ -909,16 +449,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556152230763</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="sparc bois">
+      <created>1558803312613</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558803312617</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17814000" />
+    <option name="totallyTimeSpent" value="20040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="214" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22087507" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14391144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -931,7 +479,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24021739" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.175" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -962,74 +510,29 @@
     <MESSAGE value="plz work" />
     <MESSAGE value="enable auto discover" />
     <MESSAGE value="fix link" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix link" />
+    <MESSAGE value="sparc bois" />
+    <option name="LAST_COMMIT_MESSAGE" value="sparc bois" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webroot/js/codepen.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webroot/images/slide/random.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webroot/css/main-r7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8100">
-          <caret line="450" column="18" selection-start-line="450" selection-start-column="18" selection-end-line="450" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webroot/js/index-r3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webroot/schedule.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webroot/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/js/codepen.js" />
+    <entry file="file://$PROJECT_DIR$/webroot/images/slide/random.jpg" />
+    <entry file="file://$PROJECT_DIR$/webroot/css/main-r7.css" />
+    <entry file="file://$PROJECT_DIR$/webroot/js/index-r3.js" />
+    <entry file="file://$PROJECT_DIR$/webroot/schedule.json" />
+    <entry file="file://$PROJECT_DIR$/webroot/index.html" />
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index-r3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -1042,32 +545,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/index-r3.js">
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="676" column="113" selection-start-line="676" selection-start-column="113" selection-end-line="676" selection-end-column="113" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="576">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main-r7.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="261" column="1" lean-forward="true" selection-start-line="261" selection-start-column="1" selection-end-line="261" selection-end-column="1" />
+        <state relative-caret-position="489">
+          <caret line="299" column="1" selection-start-line="299" selection-start-column="1" selection-end-line="299" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
